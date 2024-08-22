@@ -10,7 +10,7 @@ Currently working with tennis data only, but I am planing to add support for bot
 
 ![App Screenshot](https://github.com/lines64/WinnerOdds-Analyzer/blob/main/Screenshots/WinnerOdds%20Tennis%20Bookmakers%20Analysis.png)
 
-![App Screenshot](https://github.com/lines64/WinnerOdds-Analyzer/blob/main/Screenshots/WinnerOdds%20Tennis%20Bookmakers%20Analysis%20(2).png)
+![App Screenshot](https://github.com/lines64/WinnerOdds-Analyzer/blob/main/Screenshots/WinnerOdds%20Tennis%20Bookmakers%20Analysis%20(2b).png)
 
 ![App Screenshot](https://github.com/lines64/WinnerOdds-Analyzer/blob/main/Screenshots/WinnerOdds%20Tennis%20Bookmakers%20Analysis%20(3).png)
 
