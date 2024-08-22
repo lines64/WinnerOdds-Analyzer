@@ -2,6 +2,8 @@
 
 Curious about your performance across different bookmakers but unsure how to organize or extract data from your personal WinnerOdds .csv file? Then this open-source, user-friendly .csv analyzer _(with a GUI)_ is perfect for you!
 
+To use it, download the .csv file from your [WinnerOdds](https://www.winnerodds.com/#lay64) history page, run the program, select the .csv file, and wait a few seconds for the .html file to be generated. You'll then have your detailed report ready.
+
 Currently working with tennis data only, but I am planing to add support for both soccer and table tennis in the future. You can downloaded the compiled .exe file [here](https://github.com/lines64/WinnerOdds-Analyzer/releases).
 
 ## Screenshots
