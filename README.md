@@ -43,7 +43,7 @@ If you prefer to generate your own `.exe` file, you can follow the instructions 
    ```bash
    pyinstaller --onefile betting_analysis.pyw
 
-4. **Run the Executable**: You can now run the `.exe` file directly on a Windows system without requiring Python to be installed.
+4. **Run the Executable**: Navigate to the dist folder, where you can now run the `.exe` file directly on a Windows system without requiring Python to be installed.
 
 ### TODO
     - Add soccer support
