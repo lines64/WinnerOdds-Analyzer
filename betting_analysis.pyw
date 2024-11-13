@@ -460,13 +460,13 @@ def main():
     footer_frame = Frame(root)
     footer_frame.pack(pady=5)
 
-    btn1 = Button(footer_frame, text="Bookmaker Clones (coming soon)", command=lambda: open_url("#"))
+    btn1 = Button(footer_frame, text="Coverage Spreadsheet ", command=lambda: open_url("https://docs.google.com/spreadsheets/d/1OoAemFR3kypqwyZZfdOdLblniFxyvwfeZfskB_f1SZs/edit?gid=1099170835#gid=1099170835"))
     btn1.grid(row=0, column=0, padx=5)
 
     btn2 = Button(footer_frame, text="WinnerOdds", command=lambda: open_url("https://www.winnerodds.com/#lay64"))
     btn2.grid(row=0, column=1, padx=5)
 
-    btn3 = Button(footer_frame, text="Betting Tools (coming soon)", command=lambda: open_url("#"))
+    btn3 = Button(footer_frame, text="Betting Tools Database", command=lambda: open_url("https://lines64.com/betting-tools/"))
     btn3.grid(row=0, column=2, padx=5)
 
     root.mainloop()
